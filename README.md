@@ -18,7 +18,7 @@ I’m **Marija**, a recent graduate with a **Bachelor’s degree in Software Dev
     - **Deployment:** Gunicorn, Azure CLI  
   - 🔗 [GitHub repository](https://github.com/MPravdivceva/ser_project).
 
-- **Notebook:** SER Machine Learning Model  
+- **Deep Learning Model:** SER Machine Learning Model  
   - **Presentation:** CNN-GRU model training for emotion recognition using Mel spectrograms in Colab.  
   - **Tools & Libraries:**  
     - **Data Processing:** NumPy, Pandas, Librosa  
