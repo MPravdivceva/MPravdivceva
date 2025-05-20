@@ -12,7 +12,8 @@ I’m **Marija**, a recent graduate with a **Bachelor’s degree in Software Dev
 - **Website:** Speech Emotion Recognition (SER) Web App  
   - **Presentation:** A real-time web application that classifies emotions from audio using a CNN-GRU model.  
   - **Tools & Libraries:**  
-    - **Backend:** Flask, TensorFlow, Keras  
+    - **Backend:** Flask, TensorFlow, Keras
+    - **Frontend:** CSS Vanila, HTML
     - **Data Processing:** NumPy, Pandas, Librosa  
     - **Web Hosting:** Azure App Service  
     - **Deployment:** Gunicorn, Azure CLI  
